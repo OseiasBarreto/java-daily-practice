@@ -1,5 +1,5 @@
 // Descrição: o programa lê 5 notas de um aluno, calcula a média final e exibe o resultado.
-package fundamentals;
+package fundamentals.smart_grade_calculator;
 import java.util.Scanner;
 
 public class Smart_Grade_Calculator {
