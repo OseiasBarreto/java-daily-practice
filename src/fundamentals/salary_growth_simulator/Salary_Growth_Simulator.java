@@ -5,8 +5,6 @@ public class Salary_Growth_Simulator {
     public static void  main(String [] args) {
 
         Scanner sc = new Scanner(System.in);
-      //  double salario;
-        //double aumento;
 
         System.out.println("-----------------------------------------------");
         System.out.println("Bem vindo ao simulador de crescimento salarial!");
