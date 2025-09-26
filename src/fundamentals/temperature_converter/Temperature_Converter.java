@@ -22,6 +22,7 @@ public class Temperature_Converter {
             {
 
                 opc = sc.nextInt();
+
                 switch (opc) {
                     case 1:
                         System.out.println(("O resultado foi : ") + convFahrenheit(c) + "°F");
@@ -39,6 +40,7 @@ public class Temperature_Converter {
                         System.out.println("Opção inválida. Tente novamente");
                         System.out.println("");
                 }
+
             }
         } while (opc != 3);
 
