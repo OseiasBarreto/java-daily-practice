@@ -1,4 +1,4 @@
-package fundamentals.NumberAnalyzer;
+package fundamentals.numberanalyzer;
 
 
 import java.util.Scanner;

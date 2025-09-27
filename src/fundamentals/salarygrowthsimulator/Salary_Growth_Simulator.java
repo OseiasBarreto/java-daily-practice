@@ -1,4 +1,4 @@
-package fundamentals.salary_growth_simulator;
+package fundamentals.salarygrowthsimulator;
 import java.util.Scanner;
 
 public class Salary_Growth_Simulator {

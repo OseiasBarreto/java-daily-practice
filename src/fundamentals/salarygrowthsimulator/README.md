@@ -31,7 +31,7 @@ Seu aumento salarial será de: 300.0R$
    ```
 2. Execute o programa:
    ```bash
-   java fundamentals.salary_growth_simulator.Salary_Growth_Simulator
+   java fundamentals.salarygrowthsimulator.Salary_Growth_Simulator
    ```
 
 ## 📂 Estrutura
